@@ -3,7 +3,7 @@
 pkgname=kira-blk-settings
 pkgver=1.0.0
 pkgrel=1
-pkgdesc="Config to make work with flash drives and memory cards more adequate."
+pkgdesc="Config to make VFS work more adequate, especially with USB Flash drives."
 arch=('any')
 license=('GPL3')
 url="https://github.com/Kira-Linux/arch_pkgbuilds"
